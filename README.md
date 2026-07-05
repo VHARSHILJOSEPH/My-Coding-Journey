@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
