@@ -1,12 +1,4 @@
 class Solution {
-    public int gcd(int a, int b) {
-        while (b != 0) {
-            int temp = b;
-            b = a % b;
-            a = temp;
-        }
-        return a;
-    }
     public long gcdSum(int[] nums) {
         int max=-1;
         int temp[]=new int [nums.length];
@@ -16,8 +8,20 @@ class Solution {
         }
         Arrays.sort(temp);
         long sum=0;
-        for (int i = 0, j = temp.length - 1; i < j; i++, j--)
-            sum += gcd(temp[i], temp[j]);
+        int i=0,j=nums.length-1;
+        while(i<j){
+            sum+=gcd(temp[i],temp[j]);
+            i++;
+            j--;
+        }
         return sum;        
+    }
+    public int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
 }
