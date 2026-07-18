@@ -1,16 +1,24 @@
 class Solution {
     public int findGCD(int[] nums) {
-        Arrays.sort(nums);
-        int a=nums[0];
-        int b=nums[nums.length- 1];
-        int re=Math.min(a,b);
-        while(b>0){
-            if(a%re==0 && b%re==0){
-                return re;
+        int a=nums[0];int b=nums[0];
+        for(int i:nums){
+            if(i>a){
+                a=i;
             }
-            re--;
+            if(i<b){
+                b=i;
+            }
+
         }
-        return 1;
+        return gcd(b,a);
         
+    }
+    private int gcd(int a,int b){
+        while(b!=0){
+            int temp=b;
+            b=a%b;
+            a=temp;
+        }
+        return a;
     }
 }
