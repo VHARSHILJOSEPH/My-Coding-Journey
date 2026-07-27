@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3620-network-recovery-pathways](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
