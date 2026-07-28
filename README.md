@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
