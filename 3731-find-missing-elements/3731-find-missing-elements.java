@@ -1,11 +1,17 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer> ans=new ArrayList<>();
+        Set<Integer> set = new HashSet<>();
         Arrays.sort(nums);
         int min=nums[0];
-        int max=nums[nums.length-1];
+        int max=nums[0];
+        for (int num : nums) {
+            set.add(num);
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+        }
         for(int i=min;i<max;i++){
-            if(Arrays.binarySearch(nums, i) < 0){
+            if(!set.contains(i)){
                 ans.add(i);
             }
         }
