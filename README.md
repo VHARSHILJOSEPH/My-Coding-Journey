@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting Sort
 |  |
