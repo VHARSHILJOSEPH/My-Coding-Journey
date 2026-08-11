@@ -1,6 +1,7 @@
 class Solution {
     public int missingInteger(int[] nums) {
         int sqmax = nums[0];
+
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1] + 1) {
                 sqmax += nums[i];
@@ -8,41 +9,23 @@ class Solution {
                 break;
             }
         }
-        quickSort(nums,0,nums.length-1);       
 
+        int x = sqmax;
 
-        for (int x : nums) {
-            if (x == sqmax) {
-                sqmax++;
-            } else if (x > sqmax) {
-                break;
+        while (true) {
+            boolean found = false;
+
+            for (int num : nums) {
+                if (num == x) {
+                    found = true;
+                    break;
+                }
             }
-        }
 
-        return sqmax;
-    }
-    static void quickSort(int[] a, int low, int high) {
-    if (low >= high) return;
+            if (!found)
+                return x;
 
-    int pivot = a[high];
-    int i = low - 1;
-
-    for (int j = low; j < high; j++) {
-        if (a[j] <= pivot) {
-            i++;
-            int temp = a[i];
-            a[i] = a[j];
-            a[j] = temp;
+            x++;
         }
     }
-
-    int temp = a[i + 1];
-    a[i + 1] = a[high];
-    a[high] = temp;
-
-    int p = i + 1;
-
-    quickSort(a, low, p - 1);
-    quickSort(a, p + 1, high);
-}
 }
