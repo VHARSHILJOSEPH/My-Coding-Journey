@@ -8,16 +8,8 @@ class Solution {
                 break;
             }
         }
+        quickSort(nums,0,nums.length-1);       
 
-        for (int i = 0; i < nums.length - 1; i++) {
-    for (int j = i + 1; j < nums.length; j++) {
-        if (nums[i] > nums[j]) {
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
-        }
-    }
-}
 
         for (int x : nums) {
             if (x == sqmax) {
@@ -29,4 +21,28 @@ class Solution {
 
         return sqmax;
     }
+    static void quickSort(int[] a, int low, int high) {
+    if (low >= high) return;
+
+    int pivot = a[high];
+    int i = low - 1;
+
+    for (int j = low; j < high; j++) {
+        if (a[j] <= pivot) {
+            i++;
+            int temp = a[i];
+            a[i] = a[j];
+            a[j] = temp;
+        }
+    }
+
+    int temp = a[i + 1];
+    a[i + 1] = a[high];
+    a[high] = temp;
+
+    int p = i + 1;
+
+    quickSort(a, low, p - 1);
+    quickSort(a, p + 1, high);
+}
 }
