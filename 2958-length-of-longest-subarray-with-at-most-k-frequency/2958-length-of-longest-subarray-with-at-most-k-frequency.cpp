@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxSubarrayLength(vector<int>& nums, int k) {
         int n = nums.size();
-        std::map<int, int> mp;
+        unordered_map<int, int> mp;
         int l = 0;
         int ans = 0;
         for (int r = 0; r < n; r++) {
