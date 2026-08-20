@@ -1,10 +1,5 @@
 class Solution {
-    static {
-        for(int i = 0; i <= 500; i++) {
-            resultArray(new int[2]);
-        }
-    }
-    public static int[] resultArray(int[] nums) {
+    public int[] resultArray(int[] nums) {
         int n = nums.length;
         int[] arr1 = new int[n];
         int[] arr2 = new int[n-1];
@@ -24,7 +19,6 @@ class Solution {
             arr1[++arr1Pointer] = arr2[i];
         }
         return arr1;
+        
     }
-
-   
 }
