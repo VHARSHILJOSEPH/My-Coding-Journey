@@ -14,11 +14,11 @@ class Solution {
                 arr2[++k1] = nums[i]; 
             }
         }
-        for(int i = 0; i <= k1; i++) {
-            arr1[++k] = arr2[i];
-        }
+        int[] result = new int[n];
+        System.arraycopy(arr1, 0, result, 0, k + 1);
+        System.arraycopy(arr2, 0, result, k + 1, k1 + 1);
 
-        return arr1;
+        return result;
 
     }
 }
