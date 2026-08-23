@@ -1,44 +1,35 @@
 class Solution {
-    public boolean sumGame(String num) {    
-        int n=num.length();
-        int mid=n/2;
-        int ls=0,rs=0;
-        int l=0,r=mid;
-        int leftq=0,rightq=0;;
-        while(l<mid && r<n)
-        {
-            if(num.charAt(l)=='?'){
-                leftq++;
-            }
-            if(num.charAt(r)=='?'){
-                rightq++;
-            }
-            if(num.charAt(l)!='?'){
-                ls += num.charAt(l) - '0';
-            }
-            if(num.charAt(r)!='?'){
-                rs += num.charAt(r) - '0';
-            }
-            l++;
-            r++;
+    public boolean sumGame(String num) {
+
+        int mid = num.length() / 2;
+
+        int leftSum = 0, rightSum = 0;
+        int leftQ = 0, rightQ = 0;
+
+        for (int i = 0; i < mid; i++) {
+
+            char l = num.charAt(i);
+            char r = num.charAt(i + mid);
+
+            if (l == '?')
+                leftQ++;
+            else
+                leftSum += l - '0';
+
+            if (r == '?')
+                rightQ++;
+            else
+                rightSum += r - '0';
         }
-        int diff = ls - rs;
-        int q = leftq - rightq;
-        
-        if (q % 2 != 0) {
+
+        int diff = leftSum - rightSum;
+        int q = leftQ - rightQ;
+
+        // Greedy: unmatched '?' gives Alice the advantage
+        if (q % 2 != 0)
             return true;
-        }
-        if(leftq+rightq==0 && ls!=rs){
-            return true;
-        }
-        if(leftq+rightq == 0 && ls==rs){
-            return false;
-        }
+
+        // Greedy: maximum adjustment is 9 per effective move
         return diff != -(q / 2) * 9;
-        
-
-
     }
 }
-
-
