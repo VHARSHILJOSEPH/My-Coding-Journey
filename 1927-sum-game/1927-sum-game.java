@@ -1,10 +1,13 @@
 class Solution {
     public boolean sumGame(String num) {
 
-        int mid = num.length() / 2;
+        int n = num.length();
+        int mid = n / 2;
 
-        int leftSum = 0, rightSum = 0;
-        int leftQ = 0, rightQ = 0;
+        int leftSum = 0;
+        int rightSum = 0;
+        int leftQ = 0;
+        int rightQ = 0;
 
         for (int i = 0; i < mid; i++) {
 
@@ -25,11 +28,11 @@ class Solution {
         int diff = leftSum - rightSum;
         int q = leftQ - rightQ;
 
-        // Greedy: unmatched '?' gives Alice the advantage
+        // Odd number of unmatched '?'
         if (q % 2 != 0)
             return true;
 
-        // Greedy: maximum adjustment is 9 per effective move
+        // Mathematical condition
         return diff != -(q / 2) * 9;
     }
 }
