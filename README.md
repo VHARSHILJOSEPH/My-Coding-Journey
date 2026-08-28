@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1260-shift-2d-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
