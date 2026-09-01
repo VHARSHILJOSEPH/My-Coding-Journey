@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1386-cinema-seat-allocation) |
