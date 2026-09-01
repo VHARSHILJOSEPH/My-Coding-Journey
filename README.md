@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [1386-cinema-seat-allocation](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
