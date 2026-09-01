@@ -8,9 +8,8 @@ class NumArray {
     
     public int sumRange(int left, int right) {
         int sum=0;
-        while(left<=right){
-            sum+=nums[left];
-            left++;
+        for(int i=left;i<=right;i++){
+            sum+=nums[i];
         }
         return sum;
         
