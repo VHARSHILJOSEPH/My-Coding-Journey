@@ -3,7 +3,7 @@ class NumArray {
 
     public NumArray(int[] nums) {
         presum=nums;
-        for(int i=1;i<nums.length;i++){
+        for(int i=1;i<presum.length;i++){
             presum[i]+=nums[i-1];
         }
         
