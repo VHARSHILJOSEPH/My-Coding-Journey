@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1140-stone-game-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
