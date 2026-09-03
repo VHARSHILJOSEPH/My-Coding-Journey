@@ -24,9 +24,8 @@ class Solution {
 
             }
         }
-        if(evens!=0 && odds==0)   return true;
-        if(evens==0 && odds!=0)   return true;
-        if(evens!=0 && odds!=0)   return true;
+        if (even.size() != 0 || odd.size() != 0)
+            return true;
         return false;    
 
         
