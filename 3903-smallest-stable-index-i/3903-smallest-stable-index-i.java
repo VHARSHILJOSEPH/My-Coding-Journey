@@ -8,13 +8,12 @@ class Solution {
         }
         int curMax=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
-            curMax=Math.max(nums[i],curMax);
+            curMax=Math.max(curMax,nums[i]);
             if(curMax-SufMin[i]<=k){
                 return i;
             }
         }
-        return -1;
-        
+        return -1;       
         
     }
 }
