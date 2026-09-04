@@ -4,11 +4,11 @@ class Solution {
         int SufMin[]=new int [n];
         SufMin[n - 1] = nums[n - 1];
         for(int i=n-2;i>=0;i--){
-            SufMin[i]=Math.min(nums[i], SufMin[i + 1]);
+            SufMin[i]=Math.min(SufMin[i + 1],nums[i]);
         }
         int curMax=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
-            curMax=Math.max(curMax,nums[i]);
+            curMax=Math.max(nums[i],curMax);
             if(curMax-SufMin[i]<=k){
                 return i;
             }
