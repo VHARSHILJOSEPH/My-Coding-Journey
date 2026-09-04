@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
