@@ -6,9 +6,9 @@ class Solution {
         for(int i=n-1;i>=0;i--){
             sufixmin[i]=Math.min(sufixmin[i+1],nums[i]);                      
         }
-        int max1=Integer.MIN_VALUE;
+        int max1=0;
         for(int i=0;i<nums.length;i++){
-            max1=Math.max(nums[i],max1);
+            if(max1<nums[i])    max1=nums[i];
             if(max1-sufixmin[i]<=k) return i;
 
         }
