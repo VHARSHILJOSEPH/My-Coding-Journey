@@ -6,12 +6,10 @@ class Solution {
         for(int i=n-2;i>=0;i--){
             SufMin[i]=Math.min(SufMin[i + 1],nums[i]);
         }
-        int curMax=Integer.MIN_VALUE;
+        int max1=0;
         for(int i=0;i<n;i++){
-            curMax=Math.max(curMax,nums[i]);
-            if(curMax-SufMin[i]<=k){
-                return i;
-            }
+            if(max1<nums[i])    max1=nums[i];
+            if(max1-SufMin[i]<=k)   return i;
         }
         return -1;       
         
