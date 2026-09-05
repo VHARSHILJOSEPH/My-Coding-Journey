@@ -8,7 +8,7 @@ class Solution {
         }
         int max1=0;
         for(int i=0;i<=n;i++){
-            if(max1<nums[i])    max1=nums[i];
+            max1=Math.max(max1,nums[i]);    
             if(max1-sufixmin[i]<=k) return i;
 
         }
