@@ -7,7 +7,7 @@ class Solution {
             sufixmin[i]=Math.min(sufixmin[i+1],nums[i]);                      
         }
         int max1=0;
-        for(int i=0;i<nums.length;i++){
+        for(int i=0;i<=n;i++){
             if(max1<nums[i])    max1=nums[i];
             if(max1-sufixmin[i]<=k) return i;
 
