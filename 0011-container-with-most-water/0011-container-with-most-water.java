@@ -5,10 +5,16 @@ class Solution {
         int ans=0;
         while(l<r){
             int h=height[l]>height[r]?height[r]:height[l];
-            int area=h*(r-l);
-            ans=ans>area?ans:area;
-            if(height[l]<height[r]) l++;
-            else    r--;
+            ans=ans>h*(r-l)?ans:h*(r-l);
+            if(height[l]<=height[r]){
+                int curh=height[l];
+                while(l<r && curh>=height[l])    l++;
+            } 
+            else{
+                int curh=height[r];
+                while(l<r && curh>=height[r])    r--;
+
+            }   
         }
         return ans;
     }
