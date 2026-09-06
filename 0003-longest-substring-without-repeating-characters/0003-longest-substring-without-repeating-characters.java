@@ -8,7 +8,7 @@ class Solution {
                 set.remove(s.charAt(l));
                 l++;
             }
-            ans=ans>r-l+1?ans:r-l+1;
+            ans=Math.max(ans,r-l+1);
             set.add(s.charAt(r));
         }
         return ans;
