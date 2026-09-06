@@ -4,17 +4,12 @@ class Solution {
         int r=height.length-1;
         int ans=0;
         while(l<r){
-            int h=Math.min(height[l],height[r]);
+            int h=height[l]>height[r]?height[r]:height[l];
             int area=h*(r-l);
-            ans=Math.max(ans,area);
-            if(height[l]<height[r]){
-                l++;
-            }
-            else{
-                r--;
-            }
+            ans=ans>area?ans:area;
+            if(height[l]<height[r]) l++;
+            else    r--;
         }
         return ans;
-        
     }
 }
