@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2413-smallest-even-multiple) |
+| [2843-count-symmetric-integers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2843-count-symmetric-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2843-count-symmetric-integers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
