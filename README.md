@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0724-find-pivot-index) |
+| [0812-largest-triangle-area](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1140-stone-game-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
+| [0812-largest-triangle-area](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
 | [1017-convert-to-base-2](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1017-convert-to-base-2) |
 | [1140-stone-game-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1140-stone-game-ii) |
@@ -353,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
