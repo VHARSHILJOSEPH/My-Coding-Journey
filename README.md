@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1386-cinema-seat-allocation) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
