@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2843-count-symmetric-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
