@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1927-sum-game) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
