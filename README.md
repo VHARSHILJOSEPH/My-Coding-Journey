@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1184-distance-between-bus-stops) |
