@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0940-distinct-subsequences-ii) |
