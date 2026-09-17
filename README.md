@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1406-stone-game-iii) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3620-network-recovery-pathways) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0567-permutation-in-string) |
 | [1386-cinema-seat-allocation](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Segment Tree
