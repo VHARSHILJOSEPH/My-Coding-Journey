@@ -3,7 +3,7 @@ class Solution {
         int ans=0;
         for(int i=0;i<intervals.length-1;i++){
             for(int j=i+1;j<intervals.length;j++){
-                if(intervals[i][0]<=intervals[j][1] && intervals[j][0]<=intervals[i][1]){
+                if(Math.min(intervals[i][1],intervals[j][1])>=Math.max(intervals[i][0],intervals[j][0])){
                     ans++;
                 }
             }
