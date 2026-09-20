@@ -1,29 +1,31 @@
-import java.util.*;
+import java.util.Arrays;
 
 class Solution {
     public long countIntersectingIntervals(int[][] intervals) {
+        int n = intervals.length;
 
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        int[] start = new int[n];
+        int[] end = new int[n];
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        long ans = 0;
-
-        for (int[] interval : intervals) {
-
-            int start = interval[0];
-            int end = interval[1];
-
-            
-            while (!pq.isEmpty() && pq.peek() < start) {
-                pq.poll();
-            }
-
-            
-            ans += pq.size();
-
-            pq.add(end);
+        for(int i = 0; i < n; i++) {
+            start[i] = intervals[i][0];
+            end[i] = intervals[i][1];
         }
 
-        return ans;
+        Arrays.sort(start);
+        Arrays.sort(end);
+
+        long count = 0;
+        int j = 0;
+
+        for(int i = 0; i < n; i++) {
+            while(j < n && end[j] < start[i]) {
+                j++;
+            }
+
+            count += i - j;
+        }
+
+        return count;
     }
 }
