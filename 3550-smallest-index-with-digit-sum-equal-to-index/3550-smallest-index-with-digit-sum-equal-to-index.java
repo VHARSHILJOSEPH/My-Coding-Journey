@@ -4,8 +4,9 @@ class Solution {
             int n=0;
             int n1=nums[i];
             while(n1>0){
-                n+=n1%10;
-                n1/=10;
+                int d=n1%10;
+                n=n+d;
+                n1=n1/10;
             }
             if(n==i){
                 return i;
