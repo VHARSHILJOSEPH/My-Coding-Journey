@@ -8,22 +8,18 @@ class Solution {
             if (ch == '(') {
                 low++;
                 high++;
-            } 
-            else if (ch == ')') {
+            } else if (ch == ')') {
                 low--;
                 high--;
-            } 
-            else { 
-                low--;   
-                high++;  
+            } else {
+                low--;
+                high++;
             }
 
-            // Even the maximum possible '(' count is negative
             if (high < 0) {
                 return false;
             }
 
-            // Minimum cannot be negative
             low = Math.max(low, 0);
         }
 
