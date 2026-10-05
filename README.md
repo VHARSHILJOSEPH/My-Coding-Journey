@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0812-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
