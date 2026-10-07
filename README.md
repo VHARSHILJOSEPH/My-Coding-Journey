@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -376,12 +377,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
