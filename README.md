@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -474,4 +477,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
