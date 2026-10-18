@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1184-distance-between-bus-stops) |
 | [1260-shift-2d-grid](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1260-shift-2d-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
