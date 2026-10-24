@@ -12,7 +12,6 @@ class Solution {
     }
 
     public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
-        
 
         int aliceStart = convertToDayOfYear(arriveAlice);
         int aliceEnd = convertToDayOfYear(leaveAlice);
@@ -24,6 +23,6 @@ class Solution {
 
         if (max1 > min1)
             return 0;
-        return min1 - max1+1;
+        return min1 - max1 + 1;
     }
 }
