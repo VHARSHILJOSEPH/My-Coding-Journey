@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0704-binary-search) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0812-largest-triangle-area) |
