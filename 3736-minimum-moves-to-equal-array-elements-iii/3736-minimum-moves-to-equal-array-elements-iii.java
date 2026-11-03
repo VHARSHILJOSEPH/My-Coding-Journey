@@ -3,9 +3,7 @@ class Solution {
         int max=0;
         int sum=0;
         for(int n:nums){
-            if(n>max){
-                max=n;
-            }
+            max=Math.max(n,max);
             sum+=n;
         }
         return nums.length*max-sum;
