@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1406-stone-game-iii) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/VHARSHILJOSEPH/My-Coding-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
